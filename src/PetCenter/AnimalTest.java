@@ -13,7 +13,7 @@ public class AnimalTest {
 
     public String welcomeMessage() {
 
-        String welcomeMessage = "Welcome to the adoptive center!";
+        String welcomeMessage = "Welcome to the adoptived center!";
         System.out.println(welcomeMessage);
     }
 
