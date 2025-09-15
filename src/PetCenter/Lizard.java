@@ -1,4 +1,4 @@
 package PetCenter;
 
-public class Lizard {
+public class Lizard extends Animal{
 }
