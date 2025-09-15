@@ -17,4 +17,18 @@ public class Animal {
     public void makeSound(){
         System.out.println(name + " makes a sound to get your attention.");
     }
+
+    public String getType(){
+        return type;
+    }
+    public String getName(){
+        return name;
+    }
+
+    public void setType(String type){
+        this.type = type;
+    }
+    public void setName(String name){
+        this.name = name;
+    }
 }
